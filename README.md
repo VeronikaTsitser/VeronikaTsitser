@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋 I'm Veronika
+---
 
-<!--
-**VeronikaTsitser/VeronikaTsitser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior flutter developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://media.giphy.com/media/ZRiLoLix9pnW7cVB5y/giphy.gif" width="100"/>
+
+<a href="https://instagram.com/veronika_tsitser?igshid=YmMyMTA2M2Y=">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="InstagramIn Badge"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=VeronikaTsitser&style=flat-square&color=red" alt=""/>
+
+---
+
+- :writing_hand: I’m started studying flutter just a 6 months ago, but I have a mentor, who can helps me
+
+- :woman_technologist: Mostly I'm **making up pages now**. Deal with: **UI, Figma design**
+
+- :zap: Experience with: **bloc, provider, clean architecture, JSON**;
+
+- :mailbox: How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/veronika_tsitser?igshid=YmMyMTA2M2Y=)
+
+---
+
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<div>
