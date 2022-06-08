@@ -13,7 +13,7 @@ Junior flutter developer
 
 ---
 
-- :writing_hand: I’m started studying flutter just a 6 months ago, but I have a mentor, who can helps me
+- :writing_hand: I’m started studying flutter just a 6 months ago, but I have a mentor, who can help me
 
 - :woman_technologist: Mostly I'm **making up pages now**. Deal with: **UI, Figma design**
 
