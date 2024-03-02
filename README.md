@@ -6,7 +6,7 @@ Junior flutter developer
 
   <img src="https://media.giphy.com/media/ZRiLoLix9pnW7cVB5y/giphy.gif" width="100"/>
 
-<a href="https://instagram.com/veronika_tsitser?igshid=YmMyMTA2M2Y=">
+<a href="https://www.instagram.com/nika_near?igsh=MTZjZWViOWN6NHZjdw%3D%3D&utm_source=qr">
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="InstagramIn Badge"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=VeronikaTsitser&style=flat-square&color=red" alt=""/>
