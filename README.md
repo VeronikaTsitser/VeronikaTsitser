@@ -19,7 +19,7 @@ Junior flutter developer
 
 - :zap: Experience with: **bloc, provider, clean architecture, JSON**;
 
-- :mailbox: How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/veronika_tsitser?igshid=YmMyMTA2M2Y=)
+- :mailbox: How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&logoColor=white)]([https://www.instagram.com/nika_near?igsh=MTZjZWViOWN6NHZjdw%3D%3D&utm_source=qr])
 
 ---
 
