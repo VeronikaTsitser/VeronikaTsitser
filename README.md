@@ -13,11 +13,17 @@ Junior flutter developer
 
 ---
 
-- :writing_hand: I’m started studying flutter just a 6 months ago, but I have a mentor, who can help me
+- :writing_hand: Have 1 year of experience and a mentor, who can help me
 
-- :woman_technologist: Mostly I'm **making up pages now**. Deal with: **UI, Figma design**
+- :woman_technologist:
+- PUSH notifications
+- Authorization with phone, email, password recovery
+- Image editor
+- Chat
+- ChatGPT
+- Localization
 
-- :zap: Experience with: **bloc, provider, clean architecture, JSON**;
+- :zap: Experience with: **bloc, provider, riverpod, clean architecture (OOP, SOLID, DRY, KISS), JSON, **;
 
 - :mailbox: How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&logoColor=white)]([https://www.instagram.com/nika_near?igsh=MTZjZWViOWN6NHZjdw%3D%3D&utm_source=qr])
 
