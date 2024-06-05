@@ -13,11 +13,11 @@ Flutter developer
 
 ---
 
-- :writing_hand: Have 1 year of experience and a mentor, who can help me
+- :writing_hand: Have 1.5 years of experience and a mentor, who can help me
 
-- :woman_technologist: Features: PUSH notifications, Authorization with phone, email, password recovery, Image editor, Chat, ChatGPT, Localization
+- :woman_technologist: Features: PUSH notifications, Authorization with phone, email, password recovery, Image editor, ChatGPT, Localization and so on
 
-- :zap: Experience with: **bloc, provider, riverpod, clean architecture (OOP, SOLID, DRY, KISS), JSON**;
+- :zap: Experience with: **bloc, change notifier, riverpod, clean architecture (OOP, SOLID, DRY, KISS), JSON**;
 
 - :mailbox: How to reach me: [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/nika_near?igsh=MTZjZWViOWN6NHZjdw%3D%3D&utm_source=qr)
 
